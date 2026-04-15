@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://atharsh1502.github.io/scaler-dashboard",
+  "homepage": "https://atharsh1502.github.io/scaler-tracker-software-developer",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
